@@ -71,7 +71,6 @@ class AppBiblioteca(tk.Tk):
         --------------------------------------------------
         Equipe de Desenvolvimento:
         - Luan José Bezerra da Silva
-        - Victor da costa
         --------------------------------------------------
         Descrição da Aplicação:
         Este sistema permite o gerenciamento de autores e
